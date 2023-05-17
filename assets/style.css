@@ -1,0 +1,10 @@
+header {
+  background: lightgray;
+  height: 160px;
+  display: flex;
+  align-items: center;
+}
+header h1 {
+  font-weight: 300;
+  letter-spacing: 0.1em;
+}/*# sourceMappingURL=style.css.map */
