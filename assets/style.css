@@ -7,4 +7,11 @@ header {
 header h1 {
   font-weight: 300;
   letter-spacing: 0.1em;
+}
+
+section #products .card-title {
+  text-align: center;
+}
+section #products .card-price {
+  font-size: 2.7rem !important;
 }/*# sourceMappingURL=style.css.map */
